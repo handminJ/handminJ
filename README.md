@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋   
+
+ - 💻   **I'm a Front-End Web Develover**    
+
+ - 🇰🇷  **I'm working in South Korea**
 
 <!--
 **hand-mj/hand-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

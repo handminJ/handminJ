@@ -2,10 +2,10 @@
 
  - **Web Develover / AI Researcher**
 
-### Stacks
+### 📌 Stacks
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-### Tools
+### 📌 Tools
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hand-mj&show_icons=true&theme=radical)
 

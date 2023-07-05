@@ -1,4 +1,4 @@
-### Hi there, I'm Mj 👋   
+# Hi there, I'm Mj 👋   
 
  - **Web / App / AI / Game**
 

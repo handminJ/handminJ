@@ -1,8 +1,6 @@
 ### Hi there 👋   
 
- - 💻 **I'm a Front-End Web Develover**    
-
- -  🇰🇷 **I'm working in South Korea**
+ - 💻 **I'm a Front-End Web Develover**
 
 # Stacks
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>

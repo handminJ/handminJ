@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hand-mj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hand-miz&langs_count=8&layout=compact&theme=dark)](https://github.com/hand-miz/hand-miz.git)﻿
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hand-miz&langs_count=8&layout=compact&theme=dark)](https://github.com/hand-miz/hand-miz.git)﻿
 
 <!--
 **hand-mj/hand-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

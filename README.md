@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hand-miz\&rank_icon=github&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hand-miz&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/hand-miz/hand-miz.git)
 
-## 🔨 Tech Stack
+## 🛠️ Tech Stack
 ### 1) Language
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>

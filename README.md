@@ -1,4 +1,3 @@
-## Hi there 👋
 [![GitHub hand-miz](https://img.shields.io/github/followers/hand-miz?label=follow&style=social)](https://github.com/hand-miz)
 [![GitHub Stars](https://img.shields.io/github/stars/hand-miz?style=social)](https://github.com/hand-miz)
 [![Hits](https://komarev.com/ghpvc/?username=hand-miz&color=blue&label=Hits)](https://github.com/hand-miz)

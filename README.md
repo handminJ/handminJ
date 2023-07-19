@@ -1,6 +1,6 @@
 [![GitHub hand-miz](https://img.shields.io/github/followers/hand-miz?label=follow&style=social)](https://github.com/hand-miz)
 [![GitHub Stars](https://img.shields.io/github/stars/hand-miz?style=social)](https://github.com/hand-miz)
-[![Hits](https://komarev.com/ghpvc/?username=hand-miz&color=blue&label=Hits)](https://github.com/hand-miz)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhand-miz%2Fhit-counter&count_bg=%23AE82CE&title_bg=%23292D3E&icon=github.svg&icon_color=%23A6ACCD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## ⚡ GH Stats
 

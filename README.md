@@ -62,7 +62,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hand-miz&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/hand-miz/hand-miz.git)
 
 <!--
-**hand-mj/hand-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hand-miz/hand-miz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

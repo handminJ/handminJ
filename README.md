@@ -2,6 +2,11 @@
 [![GitHub Stars](https://img.shields.io/github/stars/hand-miz?style=social)](https://github.com/hand-miz)
 [![Hits](https://komarev.com/ghpvc/?username=hand-miz&color=blue&label=Hits)](https://github.com/hand-miz)
 
+## ⚡ GH Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hand-miz\&rank_icon=github&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hand-miz&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/hand-miz/hand-miz.git)
+
 ## 🔨 Tech Stack
 ### 1) Language
 <div>
@@ -55,11 +60,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   
 </div>
-
-## ⚡ GH Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hand-miz\&rank_icon=github&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hand-miz&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/hand-miz/hand-miz.git)
 
 <!--
 **hand-miz/hand-miz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

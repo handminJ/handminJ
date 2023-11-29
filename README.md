@@ -35,15 +35,8 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white&Color=white"/>
 </div>
-
-### 4) OS
-<div>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=Windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
-</div>
   
-### 5) ETC
+### 4) ETC
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>

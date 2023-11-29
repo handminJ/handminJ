@@ -21,9 +21,6 @@
   
 ### 2) Library
 <div>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white&Color=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white&Color=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white&Color=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/>
 </div>

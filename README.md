@@ -1,11 +1,11 @@
-[![GitHub mingu606](https://img.shields.io/github/followers/mingu606?label=follow&style=social)](https://github.com/mingu606)
-[![GitHub Stars](https://img.shields.io/github/stars/mingu606?style=social)](https://github.com/mingu606)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingu606%2Fhit-counter&count_bg=%23AE82CE&title_bg=%23292D3E&icon=github.svg&icon_color=%23A6ACCD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub handminJ](https://img.shields.io/github/followers/handminJ?label=follow&style=social)](https://github.com/handminJ)
+[![GitHub Stars](https://img.shields.io/github/stars/handminJ?style=social)](https://github.com/handminJ)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhandminJ%2Fhit-counter&count_bg=%23AE82CE&title_bg=%23292D3E&icon=github.svg&icon_color=%23A6ACCD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## ⚡ GH Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingu606\&rank_icon=github&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingu606&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/mingu606/mingu606.git)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handminJ\&rank_icon=github&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/handminJ/handminJ.git)
 
 ## 🛠️ Tech Stack
 ### 1) Language
@@ -51,7 +51,7 @@
 </div>
 
 <!--
-**mingu606/mingu606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**handminJ/handminJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

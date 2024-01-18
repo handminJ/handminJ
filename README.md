@@ -4,15 +4,14 @@
 
 ## ⚡ GH Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handminJ\&rank_icon=github&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/handminJ/handminJ.git)
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handminJ\&rank_icon=github&theme=material-palenight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/handminJ/handminJ.git)|
+|---|---|
 
 ## 🛠️ Tech Stack
 ### 1) Language
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/> 
@@ -49,6 +48,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
   
 </div>
+
+
 
 <!--
 **handminJ/handminJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

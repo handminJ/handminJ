@@ -49,8 +49,6 @@
   
 </div>
 
-
-
 <!--
 **handminJ/handminJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -65,3 +63,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+![trophies](https://github-profile-trophy.vercel.app/?username=handminJ&theme=discord)&nbsp; &nbsp;

@@ -63,6 +63,4 @@ Here are some ideas to get you started:
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=handminJ&theme=discord)&nbsp; &nbsp;
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/handminJ?pet-id=1" width="850" height="200"/>
-</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=handminJ&bg_color=1F222E&point=FFFFFF&hide_border=true" /></a>

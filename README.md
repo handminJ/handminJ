@@ -62,3 +62,7 @@ Here are some ideas to get you started:
 <br>
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=handminJ&theme=discord)&nbsp; &nbsp;
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/handminJ?pet-id=1" width="850" height="200"/>
+</a>

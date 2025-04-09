@@ -1,7 +1,3 @@
-[![GitHub handminJ](https://img.shields.io/github/followers/handminJ?label=follow&style=social)](https://github.com/handminJ)
-[![GitHub Stars](https://img.shields.io/github/stars/handminJ?style=social)](https://github.com/handminJ)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhandminJ%2Fhit-counter&count_bg=%23AE82CE&title_bg=%23292D3E&icon=github.svg&icon_color=%23A6ACCD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## ⚡ GH Stats
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handminJ\&rank_icon=github&theme=material-palenight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/handminJ/handminJ.git)|

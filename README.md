@@ -1,8 +1,3 @@
-## ⚡ GH Stats
-
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handminJ\&rank_icon=github&theme=material-palenight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/handminJ/handminJ.git)|
-|---|---|
-
 ## 🛠️ Tech Stack
 ### 1) Language
 <div>
@@ -61,6 +56,11 @@ Here are some ideas to get you started:
 
 <br>
 
-![trophies](https://github-profile-trophy.vercel.app/?username=handminJ&theme=discord)&nbsp; &nbsp;
+## ⚡ GH Stats
+
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handminJ\&rank_icon=github&theme=material-palenight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/handminJ/handminJ.git)|
+|---|---|
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=handminJ&bg_color=1F222E&point=FFFFFF&hide_border=true" /></a>
+
+![trophies](https://github-profile-trophy.vercel.app/?username=handminJ&theme=discord)&nbsp; &nbsp;

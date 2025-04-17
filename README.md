@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 
-  
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-111111?style=plastic&logo=Unity&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white"/>

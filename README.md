@@ -73,21 +73,6 @@ currently:
 
 <br/>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-
-## 📌 Pinned Projects
-
-<div align="center">
-  <a href="https://github.com/handminJ/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=handminJ&repo=REPO_NAME_1&theme=material-palenight&hide_border=true" width="49%"/>
-  </a>
-  <a href="https://github.com/handminJ/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=handminJ&repo=REPO_NAME_2&theme=material-palenight&hide_border=true" width="49%"/>
-  </a>
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
 ## ⚡ GitHub Stats

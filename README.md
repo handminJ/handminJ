@@ -1,10 +1,18 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     HEADER
+     ⚠️ capsule-render 의 text 파라미터에는 이모지를 넣지 않습니다.
+        (이모지 폰트 렌더링 실패 시 SVG 응답 자체가 에러로 떨어집니다)
+════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Hello%20World%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlignY=32&animation=fadeIn&desc=handminJ%20%C2%B7%20Developer%20%26%20Builder&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Hello%20World&fontSize=48&fontColor=FFFFFF&fontAlignY=32&desc=Developer%20and%20Builder&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B9EFF&center=true&vCenter=true&width=520&lines=Always+Learning%2C+Always+Building.;Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B9EFF&center=true&vCenter=true&width=520&lines=Always+Learning%2C+Always+Building.;Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad." alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=handminJ&style=for-the-badge&color=667EEA&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
@@ -73,25 +81,32 @@ currently:
 
 <br/>
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     GITHUB STATS
+     ⚠️ 아래 stats / top-langs / trophy 3종은 공용 인스턴스 Rate Limit 때문에
+        깨지기 쉽습니다. 개인 Vercel 인스턴스로 배포한 뒤 도메인만 교체하세요.
+
+        github-readme-stats.vercel.app  →  YOUR-STATS.vercel.app
+        github-profile-trophy.vercel.app →  YOUR-TROPHY.vercel.app
+════════════════════════════════════════════════════════════════ -->
 
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https:///api?username=handminJ&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E" height="180"/>
-  <img src="https://github-readme-stats-team-bdff.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=handminJ&show_icons=true&rank_icon=github&count_private=true&hide_border=true&bg_color=1F222E&title_color=8B9EFF&text_color=C9D1D9&icon_color=667EEA&cache_seconds=86400" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=8B9EFF&text_color=C9D1D9&cache_seconds=86400" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-team-bdff.vercel.app?user=handminJ&theme=material-palenight&hide_border=true&background=1F222E" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=handminJ&theme=material-palenight&hide_border=true&background=1F222E" height="170" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=handminJ&bg_color=1F222E&color=8B9EFF&line=667EEA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=handminJ&bg_color=1F222E&color=8B9EFF&line=667EEA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-nu-three.vercel.app/?username=handminJ&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=handminJ&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophy"/>
 </div>
 
 <br/>

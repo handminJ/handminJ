@@ -78,12 +78,12 @@ currently:
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=handminJ&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" height="180"/>
+  <img src="https:///api?username=handminJ&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E" height="180"/>
+  <img src="https://github-readme-stats-team-bdff.vercel.app/api/top-langs/?username=handminJ&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=handminJ&theme=material-palenight&hide_border=true&background=1F222E" height="180"/>
+  <img src="https://github-readme-stats-team-bdff.vercel.app?user=handminJ&theme=material-palenight&hide_border=true&background=1F222E" height="180"/>
 </div>
 
 <div align="center">
@@ -91,7 +91,7 @@ currently:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=handminJ&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"/>
+  <img src="https://github-profile-trophy-nu-three.vercel.app/?username=handminJ&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"/>
 </div>
 
 <br/>
